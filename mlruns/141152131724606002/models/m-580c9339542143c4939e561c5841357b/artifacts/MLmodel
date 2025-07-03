@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Nauzet/Desktop/MLFlow_FastApi/MLFlow_FastApi/mlruns/141152131724606002/models/m-580c9339542143c4939e561c5841357b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-580c9339542143c4939e561c5841357b
+model_size_bytes: 351854
+model_uuid: m-580c9339542143c4939e561c5841357b
+prompts: null
+run_id: 5edc3509ec374395a21b64c75e1d8e6e
+utc_time_created: '2025-07-03 12:25:10.379759'

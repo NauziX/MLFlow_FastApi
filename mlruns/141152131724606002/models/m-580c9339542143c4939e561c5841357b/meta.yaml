@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Nauzet/Desktop/MLFlow_FastApi/MLFlow_FastApi/mlruns/141152131724606002/models/m-580c9339542143c4939e561c5841357b/artifacts
+creation_timestamp: 1751545510334
+experiment_id: '141152131724606002'
+last_updated_timestamp: 1751545515325
+model_id: m-580c9339542143c4939e561c5841357b
+model_type: null
+name: xgb_model
+source_run_id: 5edc3509ec374395a21b64c75e1d8e6e
+status: 2
+status_message: null

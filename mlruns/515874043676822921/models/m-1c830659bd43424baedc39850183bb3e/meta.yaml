@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Nauzet/Desktop/MLFlow_FastApi/MLFlow_FastApi/mlruns/515874043676822921/models/m-1c830659bd43424baedc39850183bb3e/artifacts
+creation_timestamp: 1751545528726
+experiment_id: '515874043676822921'
+last_updated_timestamp: 1751545535503
+model_id: m-1c830659bd43424baedc39850183bb3e
+model_type: null
+name: knn_model
+source_run_id: e046d1b186df4e9fbfb785f266b6226f
+status: 2
+status_message: null

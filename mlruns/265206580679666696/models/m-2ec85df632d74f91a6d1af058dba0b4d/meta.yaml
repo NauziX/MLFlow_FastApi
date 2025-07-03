@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Nauzet/Desktop/MLFlow_FastApi/MLFlow_FastApi/mlruns/265206580679666696/models/m-2ec85df632d74f91a6d1af058dba0b4d/artifacts
+creation_timestamp: 1751545498874
+experiment_id: '265206580679666696'
+last_updated_timestamp: 1751545503973
+model_id: m-2ec85df632d74f91a6d1af058dba0b4d
+model_type: null
+name: rf_model
+source_run_id: d79a2719c125435ea8da12487ce5d532
+status: 2
+status_message: null

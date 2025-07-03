@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Nauzet/Desktop/MLFlow_FastApi/MLFlow_FastApi/mlruns/515874043676822921/e046d1b186df4e9fbfb785f266b6226f/artifacts
+end_time: 1751545535518
+entry_point_name: ''
+experiment_id: '515874043676822921'
+lifecycle_stage: active
+run_id: e046d1b186df4e9fbfb785f266b6226f
+run_name: knn_7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751545528631
+status: 3
+tags: []
+user_id: Nauzet
