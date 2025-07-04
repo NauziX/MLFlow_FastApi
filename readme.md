@@ -34,7 +34,7 @@ MLFlow_FastApi/
 
 ```bash
 pip install -r MLFLOW/requirementes.txt   # MLflow + ciencia de datos
-pip install fastapi uvicorn transformers  # API y modelos HF
+pip install -r FASTAPI/requirementes.txt  # API y modelos HF
 ```
 
 Python ≥ 3.10 recomendado.
