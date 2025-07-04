@@ -49,13 +49,13 @@ Python ≥ 3.10 recomendado.
    ```
 2. **Levantar la API**:
    ```bash
-   uvicorn FASTAPI.main:app --reload
+   fastapi run main.py --reload
    ```
 3. Explora los endpoints en `http://localhost:8000/docs` (Swagger UI).
 
 ---
 
-## 🔍 Ejemplo rápido
+##  Ejemplo rápido
 
 ```bash
 # Traducir "Hola mundo" a inglés
@@ -68,13 +68,6 @@ Respuesta esperada:
 {"traduccion": "Hello world"}
 ```
 
----
-
-## 📄 Licencia
-
-MIT. Úsalo libremente para practicar y aprender.
-
----
 
 > Autor: Nauzet Fernández Lorenzo
 
