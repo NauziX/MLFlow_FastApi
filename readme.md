@@ -3,7 +3,7 @@
 Proyecto **educativo** que muestra, con el ejemplo más simple posible, cómo:
 
 1. Registrar entrenamientos y métricas de *Machine Learning* con **MLflow**.
-2. Exponer una pequeña API con **FastAPI** que aprovecha modelos o funciones de ML.
+2. Exponer una pequeña API con **FastAPI** 
 
 ---
 
