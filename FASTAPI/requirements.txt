@@ -1,0 +1,8 @@
+
+fastapi==0.111.0          # Framework web
+uvicorn[standard]==0.29.0 # Servidor ASGI con extras útiles (reload, color, etc.
+transformers==4.43.0      # Pipelines de traducción y QA
+torch==2.4.0              # Backend para Transformers (CPU/GPU)
+sentencepiece==0.2.0      # Tokenizer para modelos traduc-es_en
+pydantic==2.7.1           # FastAPI depende de Pydantic v2
+httpx==0.27.0             # Útil para testear endpoints
