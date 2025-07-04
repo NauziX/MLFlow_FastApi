@@ -1,6 +1,6 @@
 # MLFlow\_FastApi 
 
-Proyecto **educativo** que muestra, con el ejemplo más simple posible, cómo:
+Proyecto que muestra cómo:
 
 1. Registrar entrenamientos y métricas de *Machine Learning* con **MLflow**.
 2. Exponer una pequeña API con **FastAPI** 
